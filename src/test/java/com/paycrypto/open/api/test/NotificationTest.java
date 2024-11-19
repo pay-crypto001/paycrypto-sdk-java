@@ -6,10 +6,7 @@ import org.junit.Test;
 
 import java.util.TreeMap;
 
-/**
- * @author Sheldon Zhao
- * @date 3/27/20
- */
+
 public class NotificationTest {
     @Test
     public void notificationTest() {

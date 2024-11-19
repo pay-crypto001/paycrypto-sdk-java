@@ -7,14 +7,10 @@ import com.paycrypto.open.api.dto.AccountKycReq;
 import org.junit.Before;
 import org.junit.Test;
 
-/**
- * @author zhouq
- * @version 1.0
- * @date 2019/12/11
- */
+
 public class KycTest {
 
-    String host = "https://api.sandbox.paycrypto.com";
+    String host = "https://api-sandbox.paycrypto.com";
     private static final String apiKey = "14db63d7f3614664ad1c71dd134a21dc";
     private static final String apiSecret = "ed8cb3a0-8365-4340-9d9c-33f051eedccd";
     private static final String apiPassphrase = "12345678a";

@@ -4,7 +4,6 @@ import com.alibaba.fastjson.JSONObject;
 
 public class CardInfoReq {
 
-    //卡号
     private String card_no;
 
     //publickey

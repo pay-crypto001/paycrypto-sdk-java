@@ -5,8 +5,6 @@ public enum CoinTypeEnum {
 
 
     USDT("USDT"),
-    PAX("PAX"),
-    ONT("ONT"),
     ;
 
 

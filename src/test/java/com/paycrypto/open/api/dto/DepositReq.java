@@ -4,23 +4,23 @@ import com.alibaba.fastjson.JSONObject;
 
 public class DepositReq {
 
-    //要充值的用户编号
+
     private String acct_no;
 
-    //卡号
+
     private String card_no;
 
-    //金额
+
     private String amount;
 
-    //coin 类型
+
     private String coin_type;
 
 
-    // 机构端交易流水号
+
     private String cust_tx_id;
 
-    //备注
+
     private String remark;
 
 

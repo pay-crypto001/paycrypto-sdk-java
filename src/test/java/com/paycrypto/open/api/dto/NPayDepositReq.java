@@ -4,28 +4,28 @@ import com.alibaba.fastjson.JSONObject;
 
 public class NPayDepositReq {
 
-    //要充值的用户编号
+
     private String acct_no;
 
-    //机构端用户编号(机构端唯一)
+
     private String cust_user_no;
 
-//   机构端交易流水号
+
     private String cust_tx_id;
 
-    //    充值的币种
+
     private String coin_type;
 
-//    充值金额
+
     private String tx_amount;
 
-//    奖励币种
+
     private String bonus_coin_type;
 
-//    奖励币种金额
+
     private String bonus_tx_amount;
 
-//    备注
+
     private String remark;
 
     public String getAcct_no() {

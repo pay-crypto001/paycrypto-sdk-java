@@ -10,14 +10,10 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-/**
- * @author zhouq
- * @version 1.0
- * @date 2019/12/11
- */
+
 public class EventTest {
 
-    String host = "https://api.sandbox.paycrypto.com";
+    String host = "https://api-sandbox.paycrypto.com";
     private static final String apiKey = "14db63d7f3614664ad1c71dd134a21dc";
     private static final String apiSecret = "ed8cb3a0-8365-4340-9d9c-33f051eedccd";
     private static final String apiPassphrase = "12345678a";

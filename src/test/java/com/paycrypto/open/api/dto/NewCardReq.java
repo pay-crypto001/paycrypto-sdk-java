@@ -4,14 +4,14 @@ import com.alibaba.fastjson.JSONObject;
 
 public class NewCardReq {
 
-    //要充值的用户编号
+
     private String acct_no;
 
-    //银行卡类型ID
+
     private String card_type_id;
 
 
-//   机构端交易流水号
+
     private String cust_tx_id;
 
 

@@ -5,12 +5,10 @@ import com.alibaba.fastjson.annotation.JSONField;
 
 public class AccountKycDocReq {
 
-    //要充值的用户编号
+
     private String acct_no;
 
-    /**
-     * 银行卡类型id
-     */
+
     @JSONField(name = "card_type_id")
     private String cardTypeId;
 
